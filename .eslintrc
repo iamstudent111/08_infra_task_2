@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb-base",
+  "settings": {
+    "import/resolver": "webpack"
+  },
+  "env": {
+    "jquery": true
+  },
+  "rules": {
+    "import/prefer-default-export": "off",
+    "comma-dangle": "off",
+    "indent": ["error", 4],
+    "no-var": "off",
+    "prefer-arrow-callback": "off"
+  }
+}
