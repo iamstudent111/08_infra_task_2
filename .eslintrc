@@ -7,10 +7,10 @@
     "jquery": true
   },
   "rules": {
-    "import/prefer-default-export": "off",
-    "comma-dangle": "off",
+    "import/prefer-default-export": 0,
+    "comma-dangle": 0,
     "indent": ["error", 4],
-    "no-var": "off",
-    "prefer-arrow-callback": "off"
+    "no-var": 0,
+    "prefer-arrow-callback": 0
   }
 }
