@@ -1,4 +1,4 @@
-/* eslint no-console: "off" */
+/* eslint no-console: 0 */
 
 var coolPak = require('jsmp-infra-very-very-cool-pak');
 
